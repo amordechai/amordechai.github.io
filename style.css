@@ -1,27 +1,30 @@
 
 body {
+    font-size: 300%;
     background-color: whitesmoke;
-    font-family: "Helvetica Neue";
+    font-family: "Helvetica neue";
     color: whitesmoke;
     text-align: center;
-
-
 }
 
 #in-alto {
-    font-size: 200%;
     background-color: dodgerblue;
     color: whitesmoke;
+        font-weight: lighter;
+
+}
+
+#in-basso {
+    max-width: 750px;
+    margin: 0 auto;
+    
+    background-color: palevioletred;
+    
 }
 
 h1 {
     text-transform: uppercase;
+    margin-top: auto;
 }
 
 
-
-
-#in-basso {
-    background-color: palevioletred;
-    
-}
