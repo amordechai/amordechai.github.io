@@ -1,13 +1,27 @@
 
-p {
-    font-size: 22px;
-    font-family: Verdana;
-    font-weight: 900;
-    font-style: italic;
-    color: indianred;
+body {
+    background-color: whitesmoke;
+    font-family: "Helvetica Neue";
+    color: whitesmoke;
+    text-align: center;
+
+
+}
+
+#in-alto {
+    font-size: 200%;
+    background-color: dodgerblue;
+    color: whitesmoke;
 }
 
 h1 {
-    background-color: bisque;
-    color: dodgerblue;
+    text-transform: uppercase;
+}
+
+
+
+
+#in-basso {
+    background-color: palevioletred;
+    
 }
