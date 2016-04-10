@@ -1,0 +1,13 @@
+
+p {
+    font-size: 22px;
+    font-family: Verdana;
+    font-weight: 900;
+    font-style: italic;
+    color: indianred;
+}
+
+h1 {
+    background-color: bisque;
+    color: dodgerblue;
+}
